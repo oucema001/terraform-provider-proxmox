@@ -40,5 +40,6 @@ signs:
       - "--detach-sign"
       - "${artifact}"
 release:
+  disable: false
 changelog:
   skip: true
