@@ -3,13 +3,15 @@ module github.com/Telmate/terraform-provider-proxmox/v2
 go 1.20
 
 require (
-	github.com/frostyfab/proxmox-api-go v0.0.0-20231117222322-ac75783be16d // indirect
+	github.com/frostyfab/proxmox-api-go v0.0.0-20231117222322-ac75783be16d
 	github.com/google/uuid v1.5.0
 	github.com/hashicorp/go-cty v1.4.1-0.20200414143053-d3edf31b6320
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.31.0
 	github.com/rs/zerolog v1.31.0
 
 )
+
+require github.com/Telmate/proxmox-api-go v0.0.0-20240123211857-586199ea9da2 // indirect
 
 require (
 	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371 // indirect
@@ -59,11 +61,4 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240116215550-a9fa1716bcac // indirect
 	google.golang.org/grpc v1.60.1 // indirect
 	google.golang.org/protobuf v1.32.0 // indirect
-)
-
-require (
-	github.com/Telmate/proxmox-api-go v0.0.0-20240123211857-586199ea9da2 // indirect
-	github.com/inconshreveable/mousetrap v1.1.0 // indirect
-	github.com/spf13/cobra v1.8.0 // indirect
-	github.com/spf13/pflag v1.0.5 // indirect
 )

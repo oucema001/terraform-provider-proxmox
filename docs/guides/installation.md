@@ -40,7 +40,7 @@ executables that have to be placed in the plugin directory.
 First, clone this repo and cd into the repo's root.
 
 ```shell
-git clone https://github.com/Telmate/terraform-provider-proxmox
+git clone https://github.com/frostyfab/terraform-provider-proxmox
 cd terraform-provider-proxmox
 ```
 
