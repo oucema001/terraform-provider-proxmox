@@ -11,7 +11,10 @@ require (
 
 )
 
-require github.com/Telmate/proxmox-api-go v0.0.0-20240123211857-586199ea9da2 // indirect
+require (
+	github.com/Telmate/proxmox-api-go v0.0.0-20240123211857-586199ea9da2 // indirect
+	github.com/Telmate/terraform-provider-proxmox v0.0.0-20230608103636-4c0c8fc37ed3 // indirect
+)
 
 require (
 	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371 // indirect

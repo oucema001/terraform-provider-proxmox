@@ -4,6 +4,8 @@ github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371 h1:kkhsdkhsCv
 github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371/go.mod h1:EjAoLdwvbIOoOQr3ihjnSoLZRtE8azugULFRteWMNc0=
 github.com/Telmate/proxmox-api-go v0.0.0-20240123211857-586199ea9da2 h1:GDpTqoB3mCIpS+UFnGbj3yVrE/23HtWLotkmYZTBa1M=
 github.com/Telmate/proxmox-api-go v0.0.0-20240123211857-586199ea9da2/go.mod h1:xOwyTd8uC2IiYfmjwCVU2fTTVToFCm9yxJzn4cd7rPw=
+github.com/Telmate/terraform-provider-proxmox v0.0.0-20230608103636-4c0c8fc37ed3 h1:i+tCqhF+n/4ZbM8yvIiONL5wZaPW4Qn/lZu+VqwZSG0=
+github.com/Telmate/terraform-provider-proxmox v0.0.0-20230608103636-4c0c8fc37ed3/go.mod h1:U5mT3j2H4XhGS1uU34BN/LhGzb/18SskumaEHTr4/Kw=
 github.com/agext/levenshtein v1.2.3 h1:YB2fHEn0UJagG8T1rrWknE3ZQzWM06O8AMAatNn7lmo=
 github.com/agext/levenshtein v1.2.3/go.mod h1:JEDfjyjHDjOF/1e4FlBE/PkbqA9OfWu2ki2W0IB5558=
 github.com/apparentlymart/go-textseg/v12 v12.0.0/go.mod h1:S/4uRK2UtaQttw1GenVJEynmyUenKwP++x/+DdGV/Ec=
